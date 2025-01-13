@@ -2,6 +2,13 @@
 
 **任何solidity的學習都會放在此檔案**
 
+# Variable.sol
+**認識solidity資料型態與語法的合約**
+### modifier
+1. pure 不能改變與存取state
+2. view 不能改變state
+3. payable 允許傳送乙太幣
+
 # MultiSend.sol [](./MultiSend.sol)
 [MultiSend超連結](https://github.com/oscarchen510/solidity_learning/blob/main/MultiSend.sol)
 
